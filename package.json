@@ -1,0 +1,20 @@
+{
+  "name": "asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "un proyecto donde consumo una api y a la vez que hago eso aprendi unos nuevos metodos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergiodev90/asincronismo-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sergiodev90/asincronismo-javascript/issues"
+  },
+  "homepage": "https://github.com/Sergiodev90/asincronismo-javascript#readme"
+}
