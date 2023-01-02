@@ -4,7 +4,7 @@
   "description": "un proyecto donde consumo una api y a la vez que hago eso aprendi unos nuevos metodos",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy":"gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -18,3 +18,4 @@
   },
   "homepage": "https://github.com/Sergiodev90/asincronismo-javascript#readme"
 }
+
