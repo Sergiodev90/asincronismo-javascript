@@ -39,5 +39,6 @@ async function fetchData(urlApi) {
     content.innerHTML = view;
   } catch (error){
     alert("la api no esta disponible");
+    console.log(error)
   }
 })();
