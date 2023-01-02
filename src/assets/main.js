@@ -36,7 +36,8 @@ async function fetchData(urlApi) {
     `).slice(0,4).join('')}
 
     `;
-  } catch {
-
+    content.innerHTML = view;
+  } catch (error){
+    alert("la api no esta disponible");
   }
 })();
